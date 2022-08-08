@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "@themesberg/volt-react-dashboard",
   "description": "Volt React Dashboard is a free and open source admin dashboard template powered by React.js and Bootstrap 5",
   "author": "Themesberg",
@@ -21,6 +22,26 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/themesberg/volt-react-dashboard"
+=======
+  "name": "react",
+  "version": "1.0.0",
+  "description": "React example starter project",
+  "keywords": [
+    "react",
+    "starter"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-icons": "4.4.0",
+    "react-intl": "6.0.5",
+    "react-minimal-side-navigation": "1.9.2",
+    "react-pro-sidebar": "0.7.1",
+    "react-router-dom": "6.3.0",
+    "react-scripts": "4.0.0",
+    "react-switch": "7.0.0"
+>>>>>>> a984c87196048293bea2ca497fef251c9c902196
   },
   "version": "1.0.1",
   "dependencies": {
@@ -63,6 +84,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+<<<<<<< HEAD
   "browserslist": {
     "production": [
       ">0.2%",
@@ -76,3 +98,12 @@
     ]
   }
 }
+=======
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
+>>>>>>> a984c87196048293bea2ca497fef251c9c902196

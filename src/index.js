@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // =========================================================
 // * Volt React Dashboard
 // =========================================================
@@ -31,5 +32,15 @@ ReactDOM.render(
     <ScrollToTop />
     <HomePage />
   </HashRouter>,
+=======
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./App";
+
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+>>>>>>> a984c87196048293bea2ca497fef251c9c902196
   document.getElementById("root")
 );
